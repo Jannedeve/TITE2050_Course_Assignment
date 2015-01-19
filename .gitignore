@@ -14,3 +14,12 @@ hs_err_pid*
 # Hidden files and folders excluding gitignore #
 .*
 !/.gitignore
+
+# Lock files #
+*~
+
+# Backup files #
+*.bac
+
+# Local build directory #
+bin
